@@ -1,2 +1,2 @@
-![github-contribution-grid-snake](https://raw.githubusercontent.com/oskmr/oskmr/master/img/snake.svg) 
-![GitHub Snake dark](github-snake-dark.svg)
+
+[github-snake-dark.svg](https://github.com/oskmr/oskmr/blob/output/github-contribution-grid-snake.svg)
