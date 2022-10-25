@@ -1,2 +1,1 @@
-
-[github-snake-dark.svg](https://github.com/oskmr/oskmr/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/oskmr/oskmr/blob/output/github-contribution-grid-snake.svg">
