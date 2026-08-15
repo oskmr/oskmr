@@ -4,9 +4,9 @@
 
 </samp>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oskmr&show_icons=true&locale=en&layout=compact" alt="oskmr"/>
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oskmr/oskmr/output/github-contribution-grid-snake-dark.svg">
